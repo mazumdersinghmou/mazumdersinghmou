@@ -6,10 +6,6 @@
 <h3 align="center">🚀 Backend Developer | Node.js Enthusiast | API Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moumazumder&label=Profile%20views&color=0e75b6&style=flat" alt="moumazumder" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Coding Animation"/>
 </p>
 
@@ -60,8 +56,8 @@
 
 ### 🤝 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/moumazumder"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:mou.mazumder@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mou-mazumder-singh-15a756186/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:mou.mazumder1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
