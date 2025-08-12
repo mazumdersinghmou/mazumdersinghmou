@@ -47,13 +47,6 @@
 
 ---
 
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moumazumder&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/mou-mazumder-singh-15a756186/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
@@ -66,4 +59,4 @@
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250" alt="Coding Gif"/>
 </p>
 
-⭐ From [Mou Mazumder](https://github.com/mazumdersinghmou)
+⭐ From [Mou Mazumder Singh](https://github.com/mazumdersinghmou)
