@@ -66,4 +66,4 @@
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250" alt="Coding Gif"/>
 </p>
 
-⭐ From [Mou Mazumder](https://github.com/moumazumder)
+⭐ From [Mou Mazumder](https://github.com/mazumdersinghmou)
