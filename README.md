@@ -50,7 +50,7 @@
 ### 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/mou-mazumder-singh-15a756186/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:mou.mazumder1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:moumazumder1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
