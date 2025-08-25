@@ -35,15 +35,7 @@
 ### 📌 Featured Projects
 - [**Doctor Appointment Booking System**](#) – NestJS + PostgreSQL + Swagger + Auth  
 - [**Coding Agent Sandbox**](#) – Docker, Firecracker VM, Jupyter integration  
-- [**Array Method Cheatsheet**](#) – Interactive JavaScript learning resource  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moumazumder&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moumazumder&theme=tokyonight" height="150"/>
-</p>
+- [**Array Method Cheatsheet**](#) – Interactive JavaScript learning resource
 
 ---
 
