@@ -32,13 +32,6 @@
 
 ---
 
-### 📌 Featured Projects
-- [**Doctor Appointment Booking System**](#) – NestJS + PostgreSQL + Swagger + Auth  
-- [**Coding Agent Sandbox**](#) – Docker, Firecracker VM, Jupyter integration  
-- [**Array Method Cheatsheet**](#) – Interactive JavaScript learning resource
-
----
-
 ### 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/mou-mazumder-singh-15a756186/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
